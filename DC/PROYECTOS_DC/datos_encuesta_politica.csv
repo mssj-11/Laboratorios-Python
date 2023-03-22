@@ -1,0 +1,10 @@
+Nombre,Edad,Género,Afiliación política,Opinión sobre el gobierno,Opinión sobre la economía
+Juan,28,Hombre,Partido A,Favorable,Desfavorable
+María,32,Mujer,Partido B,Favorable,Favorable
+Pedro,25,Hombre,Partido C,Desfavorable,Neutral
+Ana,29,Mujer,Partido A,Favorable,Favorable
+Carlos,35,Hombre,Partido B,Favorable,Favorable
+Laura,23,Mujer,Partido C,Neutral,Neutral
+Javier,30,Hombre,Partido A,Desfavorable,Desfavorable
+Lucía,26,Mujer,Partido B,Favorable,Neutral
+...,,,,,
